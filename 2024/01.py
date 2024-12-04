@@ -1,4 +1,4 @@
-input_path = "inputs/input01.txt"
+input_path = "inputs/01.txt"
 with open(input_path) as input_file:
     list1 = []
     list2 = []

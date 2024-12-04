@@ -1,2 +1,2 @@
 # input files should not be tracked
-**/inputs/input*
+**/inputs/[0-9]*
